@@ -1,2 +1,0 @@
-# cybergear.github.io
-InterNetShop
